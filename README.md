@@ -1,6 +1,8 @@
+# [![Connor social banner](https://raw.githubusercontent.com/cbeardsmore/cbeardsmore/main/social-banner.jpeg)](https://cbeardsmore.github.io)
+
 <h2 align="center">Hey 👋</h2>
 
-<p align="center">I'm Connor.</br> Currently an SDE at <a href="https://amazon.com">Amazon</a> on the Homepage team, living in Seattle, Washington 🏔. </br>Moved from Perth, Australia 🇦🇺 after working on <a href="https://globalpoker.com">Global Poker</a> with the VGW team.</p>
+<p align="center">I'm Connor.</br></br> Currently an SDE at <a href="https://amazon.com">Amazon</a> on the Homepage team, living in Seattle, Washington 🏔. </br>Moved from Perth, Australia 🇦🇺 after working on <a href="https://globalpoker.com">Global Poker</a> with the VGW team.</p>
 
 <p align="center">Feel free to get in touch at <a href = "mailto: connor.beardsmore@gmail.com">connor.beardsmore@gmail.com</a>.</p>
 
