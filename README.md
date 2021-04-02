@@ -1,7 +1,7 @@
 # [![Connor social banner](https://raw.githubusercontent.com/cbeardsmore/cbeardsmore/main/social-banner-v2.png)](https://cbeardsmore.github.io)
 
 <h3 align="center">Hey, I'm Connor 👋</h3>
-<p align="center">Software Developer at <a href="https://www.vgw.co/">VGW</a> on the <a href="https://luckylandslots.com/">LuckyLand Slots</a> team. Living in Seattle, Washington. 🏔🇺🇸 </br>Moved from Perth, Australia 🇦🇺 after working on <a href="https://globalpoker.com">Global Poker</a> with the VGW team.</p>
+<p align="center">Software Developer at <a href="https://www.vgw.co/">VGW</a> on the <a href="https://luckylandslots.com/">LuckyLand Slots</a> team. Living in Seattle, Washington. 🏔🇺🇸 </br>Moved from Perth, Australia 🇦🇺 after working on <a href="https://globalpoker.com">Global Poker</a>.</p>
 
 <p align="center">Feel free to get in touch at <a href = "mailto: connor.beardsmore@gmail.com">connor.beardsmore@gmail.com</a> 🤙</p>
 
