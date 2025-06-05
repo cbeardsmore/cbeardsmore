@@ -1,7 +1,7 @@
 # [![Connor social banner](https://raw.githubusercontent.com/cbeardsmore/cbeardsmore/main/social-banner-v2.png)](https://cbeardsmore.github.io)
 
 <h3 align="center">Hey, I'm Connor 👋</h3>
-<p align="center">Backend Tech Led at <a href="https://arbinteractive.com/">ARB Gaming</a> on the <a href="https://modo.us/">Modo.us</a> team. Living in Boulder, Colorado. 🏔🇺🇸 </br>Moved from Perth, Australia 🇦🇺 after working on <a href="https://globalpoker.com">Global Poker</a> and <a href="https://luckylandslots.com/">Luckyland Slots</a>.</p>
+<p align="center">VP Engineering at <a href="https://arbinteractive.com/">ARB Interactive</a> on the <a href="https://modo.us/">Modo.us</a> team. Living in Boulder, Colorado. 🏔🇺🇸 </br>Moved from Perth, Australia 🇦🇺 after working on <a href="https://globalpoker.com">Global Poker</a>, <a href="https://luckylandslots.com/">Luckyland Slots</a> and the Amazon.com Homepage Team.</p>
 
 <p align="center">Feel free to get in touch at <a href = "mailto: connor.beardsmore@gmail.com">connor.beardsmore@gmail.com</a> 🤙</p>
 
@@ -15,7 +15,7 @@
 
 #### 👨‍💻 Projects
 
-- [Fined - SlackBot](https://github.com/cbeardsmore/fined)
+- [Fined - SlackBot](https://cbeardsmore.github.io/fined)
 - [Shopping Cart (CQRS and ES)](https://github.com/cbeardsmore/shopping-cart-event-sourced)
 - [SnapBounty - Android app](https://github.com/cbeardsmore/SnapBounty)
 - [Upcoming iCal Events - übersicht widget](http://tracesof.net/uebersicht-widgets/#UpcomingEvents)
