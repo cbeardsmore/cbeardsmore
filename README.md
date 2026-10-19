@@ -1,7 +1,7 @@
 # [![Connor social banner](https://raw.githubusercontent.com/cbeardsmore/cbeardsmore/main/social-banner-v2.png)](https://cbeardsmore.github.io)
 
 <h3 align="center">Hey, I'm Connor 👋</h3>
-<p align="center">CTO at <a href="https://arbinteractive.com/">ARB Interactive</a> working on <a href="https://modo.us/">Modo Casino</a>. Based in Boulder, Colorado. 🏔🇺🇸 </br>Moved from Perth, Australia 🇦🇺 after working on Global Poker, Luckyland Slots, and the Amazon.com Homepage Team.</p>
+<p align="center">Previously CTO at <a href="https://arbinteractive.com/">ARB Interactive</a> working on <a href="https://modo.us/">Modo Casino</a>. Based in Boulder, Colorado. 🏔🇺🇸 </br>Also worked on the Amazon.com Homepage Team, as well as Global Poker and LuckyLand Slots while on the VGW Team.</p>
 
 <p align="center">Feel free to get in touch at <a href = "mailto: connor.beardsmore@gmail.com">connor.beardsmore@gmail.com</a> 🤙</p>
 
